@@ -220,7 +220,7 @@ nên phải  css cho nó 1 thẻ giả nữa mà k cần dùng thêm thẻ div c
     background: url('/assets/img/chicago.jpg') top center / cover no-repeat;
     position: relative;
 }
-#slider.text-content {
+#slider .text-content {
     position: absolute;
     bottom: 46px;
     color: #fff;
@@ -235,12 +235,12 @@ nên phải  css cho nó 1 thẻ giả nữa mà k cần dùng thêm thẻ div c
     text-align: center;
 }
 
-#slider.text-heading {
+#slider .text-heading {
     font-weight: 500;
     font-size: 24px;
 }
 
-#slider.text-descripti {
+#slider .text-descripti {
     font-size: 15px;
     margin-top: 25px
 
